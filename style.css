@@ -1,0 +1,22 @@
+#intro-example { 
+    height: 400px; 
+  } 
+  .text-white{ 
+    padding: 170px; 
+  } 
+  @media (min-width: 992px) { 
+    #intro-example { 
+      height: 600px; 
+    } 
+  
+     
+  } 
+
+.active{
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 7px;
+}
+
